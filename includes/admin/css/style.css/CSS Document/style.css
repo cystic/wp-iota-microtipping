@@ -1,0 +1,52 @@
+/* CSS Document */
+.t_a_c{
+	text-align:center;
+}
+.w_60p{
+	width:60%;
+	margin:0 auto;
+}
+.m_t_20p{
+	margin-top:20px;
+}
+input[type="email"], input[type="number"], input[type="password"], input[type="tel"], input[type="text"], input[type="url"], select, textarea{
+	width:75%
+}
+.p_5p{
+	padding:5px;
+}
+.table_bg{
+	background-color:#f9f9f9 !important;
+}
+
+.fb-like, .fb-share-button, .fb-send, .fb-post, .fb-video, .fb-comments, .fb-page, .fb-follow, .loader_img{
+	display:none;
+}
+.error{
+	color:#F00;
+	display:none;
+}
+
+.f_right{
+	float:right;
+}
+
+.f_left{
+	float:left;
+}
+
+.w_p_33{
+	width:33%;
+}
+
+.w_p_70{
+	width:70%;
+}
+
+.m_r_5{
+	margin-right:5px;
+}
+
+.fb-comments > span{
+	width:100% !important;
+}
