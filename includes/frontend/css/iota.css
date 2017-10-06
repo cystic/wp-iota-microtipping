@@ -1,0 +1,37 @@
+
+a{
+	color: black;
+}
+
+.content{
+	width: 850px; 
+	margin:0 auto; 
+	text-align: justify; 
+	border-radius: 8px; 
+	background-color: rgba(255, 255, 255, 0.95); 
+	padding: 100px;
+}
+
+.table{
+	display: table;
+}
+.table-row{
+	display: table-row;
+}
+.table-cell{
+	display: table-cell;
+}
+
+.clear{
+	clear: both;
+}
+
+.text-right{
+	text-align: right;
+}
+.text-top{
+	vertical-align: top;
+}
+.text-middle{
+	vertical-align: middle;
+}
