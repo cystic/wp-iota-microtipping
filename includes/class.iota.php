@@ -56,7 +56,7 @@ class Iota
 			}
 			
 			if( !empty( $iota_address ) ){
-				return $content.'<br/><p style="text-align:center;">Did you enjoy this article? Give a tip to the author with IOTA! <br/><span data-address="'.$iota_address.'" data-tag="Did you enjoy this article? Give a tip to the author with IOTA!" data-amount="1000000"></span><br/>Iota Address : '.$iota_address.'</p>';
+				return $content.'<br/><p style="text-align:center;">If you enjoyed this content consider giving a tip to the author with IOTA! <br/><span data-address="'.$iota_address.'" data-tag="Iota Address : '.$iota_address.'" data-amount="1000000"></span><br/></p>';
 			}else{
 				return $content;
 			}
