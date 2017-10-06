@@ -192,7 +192,7 @@ class Iota
 					<table class="wp-list-table widefat fixed m_t_20p p_5p table_bg">
 						<tbody>
 							<tr class="alternate">
-								<td>Iota Initialization URL</td>
+								<td>iota node URL for counter, leave blank for default</td>
 								<td>
 									<input type="text" required="required" name="aj_iota_initialization_url" id="aj_iota_initialization_url" placeholder="http://iota.bitfinex.com:80" value="'.$aj_iota_initialization_url.'" />
 									
